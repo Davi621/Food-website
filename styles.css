@@ -62,6 +62,7 @@ nav {
 }
 
 .nav__logo a {
+    display: flex;
     color: var(--white);
 }
 
